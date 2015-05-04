@@ -1,0 +1,4 @@
+<quick>
+<setXMLData target='AndroidManifest.xml' to='meta-data'  index='0' namespace='android' attribute='value' value='${telecom}'/>
+<copyFile target='assets' to='${root}proj.android/assets'/>
+</quick>

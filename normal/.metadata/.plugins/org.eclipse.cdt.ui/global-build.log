@@ -1,0 +1,1306 @@
+
+**** Clean-only build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh clean 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+COCOS2DX_ROOT = /Volumes/D/normal/fishmaster/proj.android/../../..
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+Android NDK: WARNING: Ignoring unknown import directory: /Volumes/D/normal/fishmaster/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt    
+jni/Android.mk:68: *** Android NDK: Aborting.    .  Stop.
+Android NDK: jni/Android.mk: Cannot find module with tag 'cocos2dx' in import path    
+Android NDK: Are you sure your NDK_MODULE_PATH variable is properly defined ?    
+Android NDK: The following directories were searched:    
+Android NDK:         
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+COCOS2DX_ROOT = /Volumes/D/normal/fishmaster/proj.android/../../..
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Android NDK: WARNING: Ignoring unknown import directory: /Volumes/D/normal/fishmaster/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt    
+jni/Android.mk:68: *** Android NDK: Aborting.    .  Stop.
+Android NDK: jni/Android.mk: Cannot find module with tag 'cocos2dx' in import path    
+Android NDK: Are you sure your NDK_MODULE_PATH variable is properly defined ?    
+Android NDK: The following directories were searched:    
+Android NDK:         
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Compile++ thumb  : cocos2dcpp_shared <= main.cpp
+Compile++ thumb  : cocos2dcpp_shared <= CConfig.cpp
+Compile++ thumb  : cocos2dcpp_shared <= Bullet.cpp
+jni/../../Classes/Core/Bullet.cpp: In member function 'bool Bullet::initWithBulletType(CannonType, GameLayer*, cocos2d::CCSpriteBatchNode*, int, cocos2d::CCPoint, bool)':
+jni/../../Classes/Core/Bullet.cpp:107:32: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:108:30: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:113:32: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:114:30: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:117:27: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:118:23: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:127:32: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:128:30: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:133:32: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:134:30: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:137:27: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:138:23: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:147:32: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:148:30: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:153:32: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:154:30: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:157:27: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:158:23: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:165:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:166:27: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:167:26: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:168:23: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:175:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:176:27: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:177:26: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:178:23: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:186:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:187:27: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:188:26: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:189:23: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:196:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:197:27: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:198:26: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:199:23: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:208:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:210:26: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:220:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:222:26: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:233:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:234:27: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:235:26: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Bullet.cpp:236:23: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+Compile++ thumb  : cocos2dcpp_shared <= Cannon.cpp
+jni/../../Classes/Core/Cannon.cpp: In member function 'bool Cannon::initWithCannonType(CannonType)':
+jni/../../Classes/Core/Cannon.cpp:195:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:196:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:200:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:201:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:205:30: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:206:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:210:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:211:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:215:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:216:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:223:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:224:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Core/Cannon.cpp:229:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+Compile++ thumb  : cocos2dcpp_shared <= Coin.cpp
+Compile++ thumb  : cocos2dcpp_shared <= Fish.cpp
+Compile++ thumb  : cocos2dcpp_shared <= FishGroup.cpp
+Compile++ thumb  : cocos2dcpp_shared <= FishMatrix.cpp
+Compile++ thumb  : cocos2dcpp_shared <= FishPath.cpp
+Compile++ thumb  : cocos2dcpp_shared <= FlipCardBonus.cpp
+Compile++ thumb  : cocos2dcpp_shared <= Helper.cpp
+Compile++ thumb  : cocos2dcpp_shared <= Mine.cpp
+Compile++ thumb  : cocos2dcpp_shared <= MyFishPath.cpp
+Compile++ thumb  : cocos2dcpp_shared <= RollNum.cpp
+Compile++ thumb  : cocos2dcpp_shared <= SceneSelection.cpp
+Compile++ thumb  : cocos2dcpp_shared <= SeqLoginBonus.cpp
+Compile++ thumb  : cocos2dcpp_shared <= GameData.cpp
+jni/../../Classes/Data/GameData.cpp: In member function 'void GameData::initUserExp()':
+jni/../../Classes/Data/GameData.cpp:430:53: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:433:51: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:436:53: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:439:53: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:442:53: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:448:53: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:454:56: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:460:50: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:469:56: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:478:57: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:484:57: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:490:54: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:496:57: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:502:54: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:508:57: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Data/GameData.cpp:514:55: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+Compile++ thumb  : cocos2dcpp_shared <= AppDelegate.cpp
+Compile++ thumb  : cocos2dcpp_shared <= FishUtils.cpp
+jni/../../Classes/Foundation/FishUtils.cpp: In static member function 'static cocos2d::CCSpriteFrame* FishUtils::awardSpriteFrame(GameAwardType)':
+jni/../../Classes/Foundation/FishUtils.cpp:17:24: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Foundation/FishUtils.cpp:20:24: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Foundation/FishUtils.cpp:23:24: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Foundation/FishUtils.cpp:26:24: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Foundation/FishUtils.cpp:29:24: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+Compile++ thumb  : cocos2dcpp_shared <= pgPlatformFactory.cpp
+Compile++ thumb  : cocos2dcpp_shared <= Sound.cpp
+Compile++ thumb  : cocos2dcpp_shared <= CCB_Template.cpp
+Compile++ thumb  : cocos2dcpp_shared <= CCRippleSprite.cpp
+jni/../../Classes/Ui/CCRippleSprite.cpp: In member function 'virtual void pgeRippleSprite::update(float)':
+jni/../../Classes/Ui/CCRippleSprite.cpp:370:55: warning: name lookup of 'count' changed [enabled by default]
+jni/../../Classes/Ui/CCRippleSprite.cpp:276:15: warning:   matches this 'count' under ISO standard rules [enabled by default]
+jni/../../Classes/Ui/CCRippleSprite.cpp:282:19: warning:   matches this 'count' under old rules [enabled by default]
+Compile++ thumb  : cocos2dcpp_shared <= FlipCardBonusLayer.cpp
+Compile++ thumb  : cocos2dcpp_shared <= GameAwardLayer.cpp
+Compile++ thumb  : cocos2dcpp_shared <= GameLayer.cpp
+jni/../../Classes/Ui/GameLayer.cpp: In member function 'void GameLayer::loadBcakground()':
+jni/../../Classes/Ui/GameLayer.cpp:481:32: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Ui/GameLayer.cpp:495:32: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Ui/GameLayer.cpp:514:32: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Ui/GameLayer.cpp:532:32: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+Compile++ thumb  : cocos2dcpp_shared <= GameStore.cpp
+Compile++ thumb  : cocos2dcpp_shared <= GameUpgrade.cpp
+Compile++ thumb  : cocos2dcpp_shared <= InitRechargeLayer.cpp
+Compile++ thumb  : cocos2dcpp_shared <= introLayer.cpp
+Compile++ thumb  : cocos2dcpp_shared <= RippleGrid3D.cpp
+Compile++ thumb  : cocos2dcpp_shared <= SceneSelectionLayer.cpp
+Compile++ thumb  : cocos2dcpp_shared <= SeqLoginBonusLayer.cpp
+jni/../../Classes/Ui/SeqLoginBonusLayer.cpp: In member function 'void SeqLoginBonusLayer::onChestClicked(cocos2d::CCObject*)':
+jni/../../Classes/Ui/SeqLoginBonusLayer.cpp:191:23: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Ui/SeqLoginBonusLayer.cpp:196:27: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Ui/SeqLoginBonusLayer.cpp:198:28: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Ui/SeqLoginBonusLayer.cpp: In member function 'void SeqLoginBonusLayer::diamondAnimation(DiamondType, const cocos2d::CCPoint&)':
+jni/../../Classes/Ui/SeqLoginBonusLayer.cpp:282:24: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Ui/SeqLoginBonusLayer.cpp:285:24: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Ui/SeqLoginBonusLayer.cpp:288:24: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Ui/SeqLoginBonusLayer.cpp:291:24: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+jni/../../Classes/Ui/SeqLoginBonusLayer.cpp:294:24: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+Compile++ thumb  : cocos2dcpp_shared <= TaskDetailLayer.cpp
+Compile++ thumb  : cocos2dcpp_shared <= WaveRippleScene.cpp
+Compile++ thumb  : cocos2dcpp_shared <= ToolsOper.cpp
+Compile++ thumb  : cocos2dcpp_shared <= JniUtil.cpp
+Compile++ thumb  : cocos2dcpp_shared <= PlatformHandler.cpp
+Compile++ thumb  : cocos_extension_static <= AssetsManager.cpp
+Compile++ thumb  : cocos_extension_static <= CCBFileLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCBReader.cpp
+/Users/andy/Documents/cocos2d-x-2.1.4/extensions/CCBReader/CCBReader.cpp:390:52: warning: multi-character character constant [-Wmultichar]
+Compile++ thumb  : cocos_extension_static <= CCControlButtonLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCControlLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCLabelBMFontLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCLabelTTFLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCLayerColorLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCLayerGradientLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCLayerLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCMenuItemImageLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCMenuItemLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCNodeLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCNodeLoaderLibrary.cpp
+Compile++ thumb  : cocos_extension_static <= CCParticleSystemQuadLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCScale9SpriteLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCScrollViewLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCSpriteLoader.cpp
+Compile++ thumb  : cocos_extension_static <= CCBAnimationManager.cpp
+Compile++ thumb  : cocos_extension_static <= CCBKeyframe.cpp
+Compile++ thumb  : cocos_extension_static <= CCBSequence.cpp
+Compile++ thumb  : cocos_extension_static <= CCBSequenceProperty.cpp
+Compile++ thumb  : cocos_extension_static <= CCBValue.cpp
+Compile++ thumb  : cocos_extension_static <= CCData.cpp
+Compile++ thumb  : cocos_extension_static <= CCNode+CCBRelativePositioning.cpp
+Compile++ thumb  : cocos_extension_static <= CCControl.cpp
+Compile++ thumb  : cocos_extension_static <= CCControlButton.cpp
+Compile++ thumb  : cocos_extension_static <= CCControlColourPicker.cpp
+Compile++ thumb  : cocos_extension_static <= CCControlHuePicker.cpp
+Compile++ thumb  : cocos_extension_static <= CCControlSaturationBrightnessPicker.cpp
+Compile++ thumb  : cocos_extension_static <= CCControlSlider.cpp
+Compile++ thumb  : cocos_extension_static <= CCControlSwitch.cpp
+Compile++ thumb  : cocos_extension_static <= CCControlUtils.cpp
+Compile++ thumb  : cocos_extension_static <= CCInvocation.cpp
+Compile++ thumb  : cocos_extension_static <= CCScale9Sprite.cpp
+Compile++ thumb  : cocos_extension_static <= CCControlPotentiometer.cpp
+Compile++ thumb  : cocos_extension_static <= CCControlStepper.cpp
+Compile++ thumb  : cocos_extension_static <= CCScrollView.cpp
+Compile++ thumb  : cocos_extension_static <= CCTableView.cpp
+Compile++ thumb  : cocos_extension_static <= CCTableViewCell.cpp
+Compile++ thumb  : cocos_extension_static <= CCSorting.cpp
+Compile++ thumb  : cocos_extension_static <= CCEditBox.cpp
+Compile++ thumb  : cocos_extension_static <= CCEditBoxImplAndroid.cpp
+Compile++ thumb  : cocos_extension_static <= HttpClient.cpp
+Compile++ thumb  : cocos_extension_static <= WebSocket.cpp
+Compile++ thumb  : cocos_extension_static <= CCPhysicsDebugNode.cpp
+Compile++ thumb  : cocos_extension_static <= CCPhysicsSprite.cpp
+Compile++ thumb  : cocos_extension_static <= LocalStorageAndroid.cpp
+Compile++ thumb  : cocos_extension_static <= CCArmature.cpp
+Compile++ thumb  : cocos_extension_static <= CCBone.cpp
+Compile++ thumb  : cocos_extension_static <= CCArmatureAnimation.cpp
+Compile++ thumb  : cocos_extension_static <= CCProcessBase.cpp
+Compile++ thumb  : cocos_extension_static <= CCTween.cpp
+Compile++ thumb  : cocos_extension_static <= CCDatas.cpp
+Compile++ thumb  : cocos_extension_static <= CCBatchNode.cpp
+Compile++ thumb  : cocos_extension_static <= CCDecorativeDisplay.cpp
+Compile++ thumb  : cocos_extension_static <= CCDisplayFactory.cpp
+Compile++ thumb  : cocos_extension_static <= CCDisplayManager.cpp
+Compile++ thumb  : cocos_extension_static <= CCShaderNode.cpp
+Compile++ thumb  : cocos_extension_static <= CCSkin.cpp
+Compile++ thumb  : cocos_extension_static <= GLES-Render.cpp
+Compile++ thumb  : cocos_extension_static <= CSContentJsonDictionary.cpp
+Compile++ thumb  : cocos_extension_static <= json_value.cpp
+Compile++ thumb  : cocos_extension_static <= json_reader.cpp
+Compile++ thumb  : cocos_extension_static <= json_writer.cpp
+Compile++ thumb  : cocos_extension_static <= CCColliderDetector.cpp
+Compile++ thumb  : cocos_extension_static <= CCPhysicsWorld.cpp
+Compile++ thumb  : cocos_extension_static <= CCArmatureDataManager.cpp
+Compile++ thumb  : cocos_extension_static <= CCDataReaderHelper.cpp
+Compile++ thumb  : cocos_extension_static <= CCSpriteFrameCacheHelper.cpp
+Compile++ thumb  : cocos_extension_static <= CCTransformHelp.cpp
+Compile++ thumb  : cocos_extension_static <= CCTweenFunction.cpp
+Compile++ thumb  : cocos_extension_static <= CCUtilMath.cpp
+Compile++ thumb  : cocos_extension_static <= Animation.cpp
+Compile++ thumb  : cocos_extension_static <= AnimationState.cpp
+Compile++ thumb  : cocos_extension_static <= AnimationStateData.cpp
+Compile++ thumb  : cocos_extension_static <= Atlas.cpp
+Compile++ thumb  : cocos_extension_static <= AtlasAttachmentLoader.cpp
+Compile++ thumb  : cocos_extension_static <= Attachment.cpp
+Compile++ thumb  : cocos_extension_static <= AttachmentLoader.cpp
+Compile++ thumb  : cocos_extension_static <= Bone.cpp
+Compile++ thumb  : cocos_extension_static <= BoneData.cpp
+Compile++ thumb  : cocos_extension_static <= Json.cpp
+Compile++ thumb  : cocos_extension_static <= RegionAttachment.cpp
+Compile++ thumb  : cocos_extension_static <= Skeleton.cpp
+Compile++ thumb  : cocos_extension_static <= SkeletonData.cpp
+Compile++ thumb  : cocos_extension_static <= SkeletonJson.cpp
+Compile++ thumb  : cocos_extension_static <= Skin.cpp
+Compile++ thumb  : cocos_extension_static <= Slot.cpp
+Compile++ thumb  : cocos_extension_static <= SlotData.cpp
+Compile++ thumb  : cocos_extension_static <= extension.cpp
+Compile++ thumb  : cocos_extension_static <= CCSkeletonAnimation.cpp
+Compile++ thumb  : cocos_extension_static <= CCSkeleton.cpp
+Compile++ thumb  : cocos_extension_static <= spine-cocos2dx.cpp
+Compile++ thumb  : cocos_extension_static <= CCComAttribute.cpp
+Compile++ thumb  : cocos_extension_static <= CCComAudio.cpp
+Compile++ thumb  : cocos_extension_static <= CCComController.cpp
+Compile++ thumb  : cocos_extension_static <= CCInputDelegate.cpp
+StaticLibrary  : libextension.a
+Compile++ thumb  : cocos2dx_static <= CCConfiguration.cpp
+Compile++ thumb  : cocos2dx_static <= CCScheduler.cpp
+Compile++ thumb  : cocos2dx_static <= CCCamera.cpp
+Compile thumb  : cocos2dx_static <= ccFPSImages.c
+Compile++ thumb  : cocos2dx_static <= CCAction.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionCamera.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionCatmullRom.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionEase.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionGrid.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionGrid3D.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionInstant.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionInterval.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionManager.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionPageTurn3D.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionProgressTimer.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionTiledGrid.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionTween.cpp
+Compile++ thumb  : cocos2dx_static <= CCAtlasNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCAffineTransform.cpp
+Compile++ thumb  : cocos2dx_static <= CCGeometry.cpp
+Compile++ thumb  : cocos2dx_static <= CCAutoreleasePool.cpp
+Compile++ thumb  : cocos2dx_static <= CCDictionary.cpp
+Compile++ thumb  : cocos2dx_static <= CCNS.cpp
+Compile++ thumb  : cocos2dx_static <= CCObject.cpp
+Compile++ thumb  : cocos2dx_static <= CCSet.cpp
+Compile++ thumb  : cocos2dx_static <= CCString.cpp
+Compile++ thumb  : cocos2dx_static <= CCZone.cpp
+Compile++ thumb  : cocos2dx_static <= CCArray.cpp
+Compile++ thumb  : cocos2dx_static <= CCDataVisitor.cpp
+Compile++ thumb  : cocos2dx_static <= cocos2d.cpp
+Compile++ thumb  : cocos2dx_static <= CCDirector.cpp
+Compile++ thumb  : cocos2dx_static <= CCDrawingPrimitives.cpp
+Compile++ thumb  : cocos2dx_static <= CCDrawNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCGrabber.cpp
+Compile++ thumb  : cocos2dx_static <= CCGrid.cpp
+Compile thumb  : cocos2dx_static <= aabb.c
+Compile thumb  : cocos2dx_static <= mat3.c
+Compile thumb  : cocos2dx_static <= mat4.c
+Compile thumb  : cocos2dx_static <= neon_matrix_impl.c
+Compile thumb  : cocos2dx_static <= plane.c
+Compile thumb  : cocos2dx_static <= quaternion.c
+/Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/kazmath/src/quaternion.c: In function 'kmQuaternionAssign':
+/Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/kazmath/src/quaternion.c:478:5: warning: incompatible implicit declaration of built-in function 'memcpy' [enabled by default]
+Compile thumb  : cocos2dx_static <= ray2.c
+Compile thumb  : cocos2dx_static <= utility.c
+Compile thumb  : cocos2dx_static <= vec2.c
+Compile thumb  : cocos2dx_static <= vec3.c
+Compile thumb  : cocos2dx_static <= vec4.c
+/Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/kazmath/src/vec4.c: In function 'kmVec4Assign':
+/Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/kazmath/src/vec4.c:150:5: warning: incompatible implicit declaration of built-in function 'memcpy' [enabled by default]
+Compile thumb  : cocos2dx_static <= mat4stack.c
+Compile thumb  : cocos2dx_static <= matrix.c
+Compile++ thumb  : cocos2dx_static <= CCKeypadDelegate.cpp
+Compile++ thumb  : cocos2dx_static <= CCKeypadDispatcher.cpp
+Compile++ thumb  : cocos2dx_static <= CCLabelAtlas.cpp
+Compile++ thumb  : cocos2dx_static <= CCLabelBMFont.cpp
+Compile++ thumb  : cocos2dx_static <= CCLabelTTF.cpp
+Compile++ thumb  : cocos2dx_static <= CCLayer.cpp
+Compile++ thumb  : cocos2dx_static <= CCScene.cpp
+Compile++ thumb  : cocos2dx_static <= CCTransitionPageTurn.cpp
+Compile++ thumb  : cocos2dx_static <= CCTransition.cpp
+Compile++ thumb  : cocos2dx_static <= CCTransitionProgress.cpp
+Compile++ thumb  : cocos2dx_static <= CCMenu.cpp
+Compile++ thumb  : cocos2dx_static <= CCMenuItem.cpp
+Compile++ thumb  : cocos2dx_static <= CCClippingNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCMotionStreak.cpp
+Compile++ thumb  : cocos2dx_static <= CCProgressTimer.cpp
+Compile++ thumb  : cocos2dx_static <= CCRenderTexture.cpp
+Compile++ thumb  : cocos2dx_static <= CCParticleExamples.cpp
+Compile++ thumb  : cocos2dx_static <= CCParticleSystem.cpp
+Compile++ thumb  : cocos2dx_static <= CCParticleBatchNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCParticleSystemQuad.cpp
+Compile++ thumb  : cocos2dx_static <= CCImageCommonWebp.cpp
+Compile++ thumb  : cocos2dx_static <= CCSAXParser.cpp
+Compile++ thumb  : cocos2dx_static <= CCThread.cpp
+Compile++ thumb  : cocos2dx_static <= CCFileUtils.cpp
+Compile++ thumb  : cocos2dx_static <= platform.cpp
+Compile++ thumb  : cocos2dx_static <= CCEGLViewProtocol.cpp
+Compile++ thumb  : cocos2dx_static <= CCDevice.cpp
+Compile++ thumb  : cocos2dx_static <= CCEGLView.cpp
+Compile++ thumb  : cocos2dx_static <= CCAccelerometer.cpp
+Compile++ thumb  : cocos2dx_static <= CCApplication.cpp
+Compile++ thumb  : cocos2dx_static <= CCCommon.cpp
+Compile++ thumb  : cocos2dx_static <= CCFileUtilsAndroid.cpp
+Compile++ thumb  : cocos2dx_static <= CCImage.cpp
+Compile++ thumb  : cocos2dx_static <= Java_org_cocos2dx_lib_Cocos2dxBitmap.cpp
+Compile++ thumb  : cocos2dx_static <= Java_org_cocos2dx_lib_Cocos2dxHelper.cpp
+Compile++ thumb  : cocos2dx_static <= Java_org_cocos2dx_lib_Cocos2dxRenderer.cpp
+Compile++ thumb  : cocos2dx_static <= Java_org_cocos2dx_lib_Cocos2dxAccelerometer.cpp
+Compile++ thumb  : cocos2dx_static <= JniHelper.cpp
+Compile++ thumb  : cocos2dx_static <= IMEJni.cpp
+Compile++ thumb  : cocos2dx_static <= TouchesJni.cpp
+Compile++ thumb  : cocos2dx_static <= DPIJni.cpp
+Compile++ thumb  : cocos2dx_static <= CCScriptSupport.cpp
+Compile++ thumb  : cocos2dx_static <= ccShaders.cpp
+Compile++ thumb  : cocos2dx_static <= CCGLProgram.cpp
+Compile++ thumb  : cocos2dx_static <= ccGLStateCache.cpp
+Compile++ thumb  : cocos2dx_static <= CCShaderCache.cpp
+Compile++ thumb  : cocos2dx_static <= CCAnimation.cpp
+Compile++ thumb  : cocos2dx_static <= CCAnimationCache.cpp
+Compile++ thumb  : cocos2dx_static <= CCSprite.cpp
+Compile++ thumb  : cocos2dx_static <= CCSpriteBatchNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCSpriteFrame.cpp
+Compile++ thumb  : cocos2dx_static <= CCSpriteFrameCache.cpp
+Compile++ thumb  : cocos2dx_static <= ccUTF8.cpp
+Compile++ thumb  : cocos2dx_static <= CCNotificationCenter.cpp
+Compile++ thumb  : cocos2dx_static <= CCProfiling.cpp
+Compile++ thumb  : cocos2dx_static <= CCPointExtension.cpp
+Compile++ thumb  : cocos2dx_static <= TransformUtils.cpp
+Compile++ thumb  : cocos2dx_static <= CCUserDefaultAndroid.cpp
+Compile++ thumb  : cocos2dx_static <= base64.cpp
+Compile++ thumb  : cocos2dx_static <= ccUtils.cpp
+Compile++ thumb  : cocos2dx_static <= CCVertex.cpp
+Compile++ thumb  : cocos2dx_static <= ccCArray.cpp
+Compile++ thumb  : cocos2dx_static <= TGAlib.cpp
+Compile++ thumb  : cocos2dx_static <= tinyxml2.cpp
+Compile++ thumb  : cocos2dx_static <= ZipUtils.cpp
+Compile++ thumb  : cocos2dx_static <= ioapi.cpp
+Compile++ thumb  : cocos2dx_static <= unzip.cpp
+Compile++ thumb  : cocos2dx_static <= CCComponent.cpp
+Compile++ thumb  : cocos2dx_static <= CCComponentContainer.cpp
+Compile++ thumb  : cocos2dx_static <= CCIMEDispatcher.cpp
+Compile++ thumb  : cocos2dx_static <= CCTextFieldTTF.cpp
+Compile++ thumb  : cocos2dx_static <= CCTexture2D.cpp
+Compile++ thumb  : cocos2dx_static <= CCTextureAtlas.cpp
+Compile++ thumb  : cocos2dx_static <= CCTextureCache.cpp
+Compile++ thumb  : cocos2dx_static <= CCTextureETC.cpp
+Compile++ thumb  : cocos2dx_static <= CCTexturePVR.cpp
+Compile++ thumb  : cocos2dx_static <= CCParallaxNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCTMXLayer.cpp
+Compile++ thumb  : cocos2dx_static <= CCTMXObjectGroup.cpp
+Compile++ thumb  : cocos2dx_static <= CCTMXTiledMap.cpp
+Compile++ thumb  : cocos2dx_static <= CCTMXXMLParser.cpp
+Compile++ thumb  : cocos2dx_static <= CCTileMapAtlas.cpp
+Compile++ thumb  : cocos2dx_static <= CCTouchDispatcher.cpp
+Compile++ thumb  : cocos2dx_static <= CCTouchHandler.cpp
+Compile++ thumb  : cocos2dx_static <= CCTouch.cpp
+StaticLibrary  : libcocos2d.a
+Compile++ thumb  : cocosdenshion_static <= SimpleAudioEngine.cpp
+Compile++ thumb  : cocosdenshion_static <= SimpleAudioEngineJni.cpp
+Compile++ thumb  : cocosdenshion_static <= OpenSLEngine.cpp
+Compile++ thumb  : cocosdenshion_static <= SimpleAudioEngineOpenSL.cpp
+StaticLibrary  : libcocosdenshion.a
+Compile++ thumb  : box2d_static <= b2ChainShape.cpp
+Compile++ thumb  : box2d_static <= b2CircleShape.cpp
+Compile++ thumb  : box2d_static <= b2EdgeShape.cpp
+Compile++ thumb  : box2d_static <= b2PolygonShape.cpp
+Compile++ thumb  : box2d_static <= b2BroadPhase.cpp
+Compile++ thumb  : box2d_static <= b2CollideCircle.cpp
+Compile++ thumb  : box2d_static <= b2CollideEdge.cpp
+Compile++ thumb  : box2d_static <= b2CollidePolygon.cpp
+Compile++ thumb  : box2d_static <= b2Collision.cpp
+Compile++ thumb  : box2d_static <= b2Distance.cpp
+Compile++ thumb  : box2d_static <= b2DynamicTree.cpp
+Compile++ thumb  : box2d_static <= b2TimeOfImpact.cpp
+Compile++ thumb  : box2d_static <= b2BlockAllocator.cpp
+Compile++ thumb  : box2d_static <= b2Draw.cpp
+Compile++ thumb  : box2d_static <= b2Math.cpp
+Compile++ thumb  : box2d_static <= b2Settings.cpp
+Compile++ thumb  : box2d_static <= b2StackAllocator.cpp
+Compile++ thumb  : box2d_static <= b2Timer.cpp
+Compile++ thumb  : box2d_static <= b2ChainAndCircleContact.cpp
+Compile++ thumb  : box2d_static <= b2ChainAndPolygonContact.cpp
+Compile++ thumb  : box2d_static <= b2CircleContact.cpp
+Compile++ thumb  : box2d_static <= b2Contact.cpp
+Compile++ thumb  : box2d_static <= b2ContactSolver.cpp
+Compile++ thumb  : box2d_static <= b2EdgeAndCircleContact.cpp
+Compile++ thumb  : box2d_static <= b2EdgeAndPolygonContact.cpp
+Compile++ thumb  : box2d_static <= b2PolygonAndCircleContact.cpp
+Compile++ thumb  : box2d_static <= b2PolygonContact.cpp
+Compile++ thumb  : box2d_static <= b2DistanceJoint.cpp
+Compile++ thumb  : box2d_static <= b2FrictionJoint.cpp
+Compile++ thumb  : box2d_static <= b2GearJoint.cpp
+Compile++ thumb  : box2d_static <= b2Joint.cpp
+Compile++ thumb  : box2d_static <= b2MouseJoint.cpp
+Compile++ thumb  : box2d_static <= b2PrismaticJoint.cpp
+Compile++ thumb  : box2d_static <= b2PulleyJoint.cpp
+Compile++ thumb  : box2d_static <= b2RevoluteJoint.cpp
+Compile++ thumb  : box2d_static <= b2RopeJoint.cpp
+Compile++ thumb  : box2d_static <= b2WeldJoint.cpp
+Compile++ thumb  : box2d_static <= b2WheelJoint.cpp
+Compile++ thumb  : box2d_static <= b2Body.cpp
+Compile++ thumb  : box2d_static <= b2ContactManager.cpp
+Compile++ thumb  : box2d_static <= b2Fixture.cpp
+Compile++ thumb  : box2d_static <= b2Island.cpp
+Compile++ thumb  : box2d_static <= b2World.cpp
+Compile++ thumb  : box2d_static <= b2WorldCallbacks.cpp
+Compile++ thumb  : box2d_static <= b2Rope.cpp
+StaticLibrary  : libbox2d.a
+Compile thumb  : chipmunk_static <= chipmunk.c
+Compile thumb  : chipmunk_static <= cpConstraint.c
+Compile thumb  : chipmunk_static <= cpDampedRotarySpring.c
+Compile thumb  : chipmunk_static <= cpDampedSpring.c
+Compile thumb  : chipmunk_static <= cpGearJoint.c
+Compile thumb  : chipmunk_static <= cpGrooveJoint.c
+Compile thumb  : chipmunk_static <= cpPinJoint.c
+Compile thumb  : chipmunk_static <= cpPivotJoint.c
+Compile thumb  : chipmunk_static <= cpRatchetJoint.c
+Compile thumb  : chipmunk_static <= cpRotaryLimitJoint.c
+Compile thumb  : chipmunk_static <= cpSimpleMotor.c
+Compile thumb  : chipmunk_static <= cpSlideJoint.c
+Compile thumb  : chipmunk_static <= cpArbiter.c
+Compile thumb  : chipmunk_static <= cpArray.c
+Compile thumb  : chipmunk_static <= cpBB.c
+Compile thumb  : chipmunk_static <= cpBBTree.c
+Compile thumb  : chipmunk_static <= cpBody.c
+Compile thumb  : chipmunk_static <= cpCollision.c
+Compile thumb  : chipmunk_static <= cpHashSet.c
+Compile thumb  : chipmunk_static <= cpPolyShape.c
+Compile thumb  : chipmunk_static <= cpShape.c
+Compile thumb  : chipmunk_static <= cpSpace.c
+Compile thumb  : chipmunk_static <= cpSpaceComponent.c
+Compile thumb  : chipmunk_static <= cpSpaceHash.c
+Compile thumb  : chipmunk_static <= cpSpaceQuery.c
+Compile thumb  : chipmunk_static <= cpSpaceStep.c
+Compile thumb  : chipmunk_static <= cpSpatialIndex.c
+Compile thumb  : chipmunk_static <= cpSweep1D.c
+Compile thumb  : chipmunk_static <= cpVect.c
+StaticLibrary  : libchipmunk.a
+Compile thumb  : cpufeatures <= cpu-features.c
+StaticLibrary  : libcpufeatures.a
+SharedLibrary  : libcocos2dcpp.so
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 19 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(file.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 25 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(progress.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 62 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(formdata.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 59 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(cookie.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(http.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 124 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(http.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 139 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(http.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 74 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ftp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 144 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ftp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 174 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ftp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 199 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ftp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 139 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(url.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 164 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(url.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 179 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(url.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 56 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssluse.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 91 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssluse.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 141 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssluse.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 26 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(mprintf.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 24 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(telnet.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(getinfo.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 60 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(transfer.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 70 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(transfer.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 23 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ftplistparser.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(connect.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 23 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(hash.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 113 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(multi.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 143 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(multi.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 24 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(http_digest.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(select.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 52 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(tftp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(socks.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 73 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(imap.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(smtp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 94 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(smtp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 28 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rtsp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(http_proxy.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(curl_ntlm_msgs.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 18 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(mem_dbg.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 102 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ex_data.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(a_d2i_fp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 25 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(a_mbstr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(a_sign.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 8 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(a_type.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(asn1_gen.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(asn1_par.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(asn_mime.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bio_ndef.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(i2d_pr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(t_crl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 39 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(t_x509.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 33 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(tasn_dec.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 24 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(tasn_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x_info.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 49 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x_req.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 12 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bf_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(b_print.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 51 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(b_sock.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 150 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bio_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 33 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bss_conn.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 18 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bss_file.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 29 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_asm.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 41 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_asm.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_exp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_exp2.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 17 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_gf2m.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 46 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_mpi.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 44 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_mul.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 18 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_prime.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_shift.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 43 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(buffer.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 56 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(conf_def.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 75 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(conf_mod.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(cfb_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(des_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(des_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ede_cbcm_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(fcrypt_b.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(str2key.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 26 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(dh_key.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(dsa_depr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(dsa_pmeth.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 96 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(dso_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 77 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec2_smpl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 94 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec_ameth.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 119 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec_asn1.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 63 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec_key.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 261 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 34 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec_mult.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ecp_mont.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 78 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ecp_smpl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 118 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ecp_smpl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 19 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ecs_ossl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 227 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(err.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 29 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bio_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 27 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(digest.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(e_des3.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 23 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(evp_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 54 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(evp_pkey.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 55 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(p_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 40 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pmeth_gn.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(lh_stats.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(md5_dgst.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(cfb128.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 76 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(obj_dat.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 34 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ocsp_cl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ocsp_prn.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pem_all.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pem_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pem_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pem_sign.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 101 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pvkfmt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(p12_decr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(p12_npas.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 79 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pk7_doit.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 52 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pk7_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 29 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pk7_smime.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(randfile.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rc4_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rmd_dgst.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rsa_asn1.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 48 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rsa_eay.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rsa_oaep.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rsa_pss.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 39 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(sha256.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 110 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ui_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 23 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(by_dir.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 95 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x509_cmp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x509_obj.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 113 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x509_vfy.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 223 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x509_vfy.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 47 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x509name.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pcy_data.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_alt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 81 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_conf.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 24 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_crld.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 34 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_info.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_pci.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 57 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_purp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_utl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 1 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(aes-armv4.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 1 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(sha256-armv4.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 1 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(sha512-armv4.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s2_srvr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 19 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s2_clnt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s2_pkt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 39 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_srvr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_srvr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 79 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_srvr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 42 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_clnt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 67 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_clnt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 77 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_clnt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 67 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 53 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 44 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_pkt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 49 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_both.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s23_clnt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 27 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(t1_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 57 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(t1_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 39 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(t1_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 472 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 91 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_cert.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 200 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_sess.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 85 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_ciph.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_stat.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 33 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_rsa.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_asn1.o) for Cortex-A8 erratum because it has no mapping symbols.
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_algs.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 19 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(file.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 25 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(progress.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 62 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(formdata.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 59 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(cookie.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(http.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 124 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(http.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 139 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(http.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 74 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ftp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 144 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ftp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 174 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ftp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 199 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ftp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 139 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(url.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 164 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(url.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 179 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(url.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 56 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssluse.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 91 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssluse.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 141 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssluse.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 26 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(mprintf.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 24 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(telnet.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(getinfo.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 60 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(transfer.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 70 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(transfer.o) for Cortex-A8 erratum because it has no mapping symbols.
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 23 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ftplistparser.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(connect.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 23 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(hash.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 113 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(multi.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 143 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(multi.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 24 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(http_digest.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(select.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 52 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(tftp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(socks.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 73 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(imap.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(smtp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 94 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(smtp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 28 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rtsp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(http_proxy.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(curl_ntlm_msgs.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 18 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(mem_dbg.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 102 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ex_data.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(a_d2i_fp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 25 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(a_mbstr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(a_sign.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 8 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(a_type.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(asn1_gen.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(asn1_par.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(asn_mime.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bio_ndef.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(i2d_pr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(t_crl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 39 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(t_x509.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 33 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(tasn_dec.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 24 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(tasn_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x_info.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 49 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x_req.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 12 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bf_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(b_print.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 51 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(b_sock.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 150 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bio_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 33 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bss_conn.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 18 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bss_file.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 29 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_asm.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 41 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_asm.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_exp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_exp2.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 17 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_gf2m.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 46 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_mpi.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 44 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_mul.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 18 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_prime.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bn_shift.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 43 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(buffer.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 56 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(conf_def.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 75 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(conf_mod.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(cfb_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(des_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(des_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ede_cbcm_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(fcrypt_b.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(str2key.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 26 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(dh_key.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(dsa_depr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(dsa_pmeth.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 96 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(dso_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 77 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec2_smpl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 94 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec_ameth.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 119 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec_asn1.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 63 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec_key.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 261 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 34 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ec_mult.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ecp_mont.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 78 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ecp_smpl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 118 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ecp_smpl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 19 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ecs_ossl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 227 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(err.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 29 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(bio_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 27 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(digest.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(e_des3.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 23 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(evp_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 54 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(evp_pkey.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 55 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(p_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 40 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pmeth_gn.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(lh_stats.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(md5_dgst.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(cfb128.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 76 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(obj_dat.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 34 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ocsp_cl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ocsp_prn.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pem_all.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pem_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pem_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pem_sign.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 101 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pvkfmt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(p12_decr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(p12_npas.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 79 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pk7_doit.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 52 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pk7_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 29 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pk7_smime.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(randfile.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rc4_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rmd_dgst.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rsa_asn1.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 48 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rsa_eay.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rsa_oaep.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(rsa_pss.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 39 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(sha256.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 110 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ui_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 23 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(by_dir.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 95 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x509_cmp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x509_obj.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 113 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x509_vfy.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 223 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x509_vfy.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 47 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(x509name.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(pcy_data.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_alt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 81 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_conf.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 24 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_crld.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 34 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_info.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_pci.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 57 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_purp.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(v3_utl.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 1 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(aes-armv4.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 1 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(sha256-armv4.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 1 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(sha512-armv4.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s2_srvr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 19 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s2_clnt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 9 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s2_pkt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 39 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_srvr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 64 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_srvr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 79 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_srvr.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 42 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_clnt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 67 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_clnt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 77 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_clnt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 67 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 53 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 44 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_pkt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 49 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s3_both.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(s23_clnt.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 27 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(t1_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 57 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(t1_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 39 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(t1_enc.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 472 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_lib.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 91 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_cert.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 200 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_sess.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 85 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_ciph.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 14 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_stat.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 33 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_rsa.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_asn1.o) for Cortex-A8 erratum because it has no mapping symbols.
+/Users/andy/dev/android-ndk-r8e/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: cannot scan executable section 4 of /Users/andy/Documents/cocos2d-x-2.1.4/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a(ssl_algs.o) for Cortex-A8 erratum because it has no mapping symbols.
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+Using prebuilt externals
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****
+
+**** Build of configuration Default for project fishmaster ****
+
+bash /Volumes/D/normal/fishmaster/proj.android/build_native.sh 
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/assets/ctestore: File exists
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4
+APP_ROOT = /Volumes/D/normal/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Volumes/D/normal/fishmaster/proj.android
+cp: /Volumes/D/normal/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+make: Entering directory `/Volumes/D/normal/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Volumes/D/normal/fishmaster/proj.android'
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Volumes/D/normal/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****

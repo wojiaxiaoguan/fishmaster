@@ -1,0 +1,14 @@
+
+**** Build of configuration Default for project MyGame ****
+
+bash /Users/andy/Documents/cocos2d-x-2.1.4/projects/MyGame/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4/projects/MyGame/proj.android/../../..
+APP_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4/projects/MyGame/proj.android/..
+APP_ANDROID_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4/projects/MyGame/proj.android
+Using prebuilt externals
+make: Entering directory `/Users/andy/Documents/cocos2d-x-2.1.4/projects/MyGame/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi/libcocos2dcpp.so
+make: Leaving directory `/Users/andy/Documents/cocos2d-x-2.1.4/projects/MyGame/proj.android'
+
+**** Build Finished ****

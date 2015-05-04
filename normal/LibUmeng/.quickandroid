@@ -1,0 +1,3 @@
+<quick>
+<setXMLData target='AndroidManifest.xml' to='meta-data'  index='1' namespace='android' attribute='value' value='${channel}'/>
+</quick>

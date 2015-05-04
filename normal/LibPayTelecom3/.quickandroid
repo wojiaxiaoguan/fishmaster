@@ -1,0 +1,3 @@
+<quick>
+<copyFile target='assets' to='${root}proj.android/assets'/>
+</quick>

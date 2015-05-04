@@ -1,0 +1,4 @@
+<quick>
+<copyFile target='assets' to='${root}proj.android/assets'/>
+<setXMLData target='AndroidManifest.xml' to='action'  index='0' namespace='android' attribute='name' value='${package}.unicom.wostore.unipay.securityserviceframework'/>
+</quick>

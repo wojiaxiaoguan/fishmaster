@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.ipeaksoft.pay.constant.PayPlatformName"/>
+<fullyQualifiedTypeName name="com.ipeaksoft.agent.GameAgent"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="com.ipeaksoft.agent.activity.MainActivity"/>
+<fullyQualifiedTypeName name="com.umeng.mobclickcpp.MobClickCppHelper"/>
+<fullyQualifiedTypeName name="com.ipeaksoft.libumeng.UmengAgent"/>
+</qualifiedTypeNameHistroy>

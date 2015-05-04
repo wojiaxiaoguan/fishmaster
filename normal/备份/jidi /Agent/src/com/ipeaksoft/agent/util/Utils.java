@@ -1,0 +1,354 @@
+package com.ipeaksoft.agent.util;
+
+import java.io.File;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.UUID;
+
+import org.apache.commons.io.FileUtils;
+
+import android.content.Context;
+import android.content.SharedPreferences;
+import android.content.pm.ApplicationInfo;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
+import android.content.pm.PackageManager.NameNotFoundException;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
+import android.os.Environment;
+import android.telephony.TelephonyManager;
+import android.text.TextUtils;
+import android.util.Log;
+import android.widget.Toast;
+
+import com.ipeaksoft.agent.activity.WebViewActivity;
+import com.ipeaksoft.vector.config.AppConfig;
+
+/**
+ * @author jinjia.peng
+ * 
+ *         实用工具集
+ * 
+ */
+public final class Utils {
+
+	/**
+	 * 网络不可用提示信息
+	 */
+	public static final String NETWORK_NOT_AVAILABLE_MSG = "您的网络不行了哟！";
+	
+	/**
+	 * 网络是否可用
+	 * 
+	 * @param context 上下文
+	 * @return
+	 */
+	public static boolean isNetworkAvailable(Context context) {
+		ConnectivityManager connMgr = (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE);
+		NetworkInfo netInfo = connMgr.getActiveNetworkInfo();
+		return netInfo != null && netInfo.isConnected();
+	}
+	
+	/**
+	 * 判断当前 SIM 卡是否是中国移动移动卡
+	 * 
+	 * @return
+	 */
+	public static boolean isChinaMobile(Context context) {
+		TelephonyManager telMgr = (TelephonyManager) context.getSystemService(Context.TELEPHONY_SERVICE);
+		String operator = telMgr.getSimOperator();
+		String ICCID = telMgr.getSimSerialNumber();
+		if (ICCID != null && ICCID.trim().length() > 0) {
+			ICCID = ICCID.substring(0, 6);
+		}
+		return ("46000".equals(operator) || "46002".equals(operator) || "46007".equals(operator) || "898600".equals(ICCID));
+	}
+	
+	/**
+	 * 判断当前 SIM 卡是否是中国联通卡
+	 * 
+	 * @param context
+	 * @return
+	 */
+	public static boolean isChinaUnicom(Context context) {
+		TelephonyManager telMgr = (TelephonyManager) context.getSystemService(Context.TELEPHONY_SERVICE);
+		String imsi = telMgr.getSubscriberId();
+		return !TextUtils.isEmpty(imsi) && (imsi.startsWith("46001"));
+	}
+	
+	/**
+	 * 判断当前 SIM 卡是否是中国电信卡
+	 * 
+	 * @param context
+	 * @return
+	 */
+	public static boolean isChinaTelecom(Context context) {
+		TelephonyManager telMgr = (TelephonyManager) context.getSystemService(Context.TELEPHONY_SERVICE);
+		String imsi = telMgr.getSubscriberId();
+		return !TextUtils.isEmpty(imsi) && (imsi.startsWith("46003"));
+	}
+
+	/**
+	 * 检验 URL 正则表达式
+	 */
+	private static final String PATTEN_URL = "(http|https):\\/\\/[\\w\\-_]+(\\.[\\w\\-_]+)+([\\w\\-\\.,@?^=%&amp;:/~\\+#]*[\\w\\-\\@?^=%&amp;/~\\+#])?";
+	
+	/**
+	 * 打开 WebView
+	 * 
+	 * @param context 上下文
+	 * @param url 要打开的网址
+	 */
+	public static void openWebView(Context context, String url) {
+		if (!isNetworkAvailable(context)) {
+			showToast(context, NETWORK_NOT_AVAILABLE_MSG);
+			return;
+		}
+
+		if (!TextUtils.isEmpty(url) && url.matches(PATTEN_URL)) {
+			WebViewActivity.openWebView(context, url);
+		} else {
+			Log.i(AppConfig.TAG, "-------- url 格式错误 --------");
+			Log.i(AppConfig.TAG, "url: " + url);
+		}
+	}
+	
+	/**
+	 * 打开 WebView，且有数据返回
+	 * 
+	 * @param context 上下文
+	 * @param url 打开的网址
+	 * @param fullClassName 全类名；返回到前一个 Activity
+	 */
+	public static void openWebView(Context context, String url, String fullClassName) {
+		if (!isNetworkAvailable(context)) {
+			showToast(context, NETWORK_NOT_AVAILABLE_MSG);
+			return;
+		}
+
+		if (!TextUtils.isEmpty(url) && url.matches(PATTEN_URL)) {
+			WebViewActivity.openWebView(context, url, fullClassName);
+		} else {
+			Log.i(AppConfig.TAG, "-------- url 格式错误 --------");
+			Log.i(AppConfig.TAG, "url: " + url);
+		}
+	}
+	
+	/**
+	 * 打开 WebView攻略
+	 * 
+	 * @param context 上下文
+	 * @param url 打开的网址
+	 * @param fullClassName 全类名；返回到前一个 Activity
+	 */
+	public static void openWebViewRaiders(Context context,String url)
+	{
+		if(!isNetworkAvailable(context))
+		{
+			showToast(context, NETWORK_NOT_AVAILABLE_MSG);
+			return;
+		}
+		
+		if(!TextUtils.isEmpty(url))
+		{
+			String urls="file:///android_asset/gameRaiders/"+url+".html";
+			WebViewActivity.openWebView(context, urls);
+		}
+		else
+		{
+			Log.i(AppConfig.TAG, "-------- url 为空 --------");
+			Log.i(AppConfig.TAG, "url: " + url);
+		}
+	}
+	
+	/**
+	 * 显示短消息
+	 * 
+	 * @param context 上下文
+	 * @param msg 消息
+	 */
+	public static void showToast(Context context, String msg) {
+		Toast.makeText(context, msg, Toast.LENGTH_SHORT).show();
+	}
+	
+	/**
+	 * 显示长消息
+	 * 
+	 * @param context 上下文
+	 * @param msg 消息内容
+	 */
+	public static void showLongToast(Context context, String msg) {
+		Toast.makeText(context, msg, Toast.LENGTH_LONG).show();
+	}
+	
+	/**
+	 * 获取设备号
+	 * 
+	 * @param context
+	 * @return
+	 */
+	public static String getDeviceId(Context context) {
+		//	从文件里读取 device
+		SharedPreferences settings = context.getSharedPreferences("deviceId", Context.MODE_PRIVATE);
+		String deviceId = settings.getString("deviceId", null);
+		
+		if (TextUtils.isEmpty(deviceId)) {
+			try {
+				TelephonyManager tm = (TelephonyManager) context.getSystemService(Context.TELEPHONY_SERVICE);
+				deviceId = tm.getDeviceId();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+			
+			if (TextUtils.isEmpty(deviceId)) {
+				// 获取不到设备号，用 UUID 代替
+				deviceId = UUID.randomUUID().toString().replace("-", "");
+			}
+			
+			// 保存到配置文件(这样可以保证每次都一样)
+			SharedPreferences.Editor editor = settings.edit();
+			editor.putString("deviceId", deviceId);
+			editor.commit();
+		}
+
+		return deviceId;
+	}
+	
+	/**
+	 * 拷贝 assets 文件夹下的文件到 SD 根目录
+	 * 
+	 * @param context 上下文
+	 * @param srcPath 表示 assets 文件夹下的源文件路径
+	 */
+	public static void copyAssetsFileToSDRootDir(Context context, String srcPath) {
+		if (TextUtils.isEmpty(srcPath)) {
+			Log.e(AppConfig.TAG, "src path is null.");
+			return;
+		}
+		
+		//	判断 SD 卡是否存在
+		boolean isSdCardExist = Environment.getExternalStorageState().equals(Environment.MEDIA_MOUNTED);
+		if (isSdCardExist) {
+			
+			//	若 srcPath 值是文件路径，取文件路径里的文件名
+			//	否则，直接取文件名
+			final int index = srcPath.lastIndexOf('/');
+			final String destFileName = (index != -1) ? srcPath.substring(index) : srcPath;
+			System.out.println("SD卡destFileName:" + destFileName);
+			try {
+				
+				InputStream source = context.getAssets().open(srcPath);
+				File outFile = new File(Environment.getExternalStorageDirectory(), destFileName);
+				FileUtils.copyInputStreamToFile(source, outFile);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		} else {
+			Log.e(AppConfig.TAG, "SD 卡不存在！");
+		}
+	}
+	
+	/**
+	 * 获得代码版本号
+	 */
+	public static int getVersionCode(Context mContext) {
+		// 获得版本代码号
+		int vc = 1;
+		try {
+			PackageInfo pi = mContext.getPackageManager().getPackageInfo(
+					mContext.getPackageName(), 0);
+			vc = pi.versionCode;
+		} catch (NameNotFoundException e) {
+			// TODO Auto-generated catch block
+			System.out.print("错误，无法获取代码版本号");
+			e.printStackTrace();
+		}
+		return vc;
+	}
+
+	/**
+	 * 获得版本名称
+	 */
+	public static String getVersionName(Context mContext) {
+		try {
+			PackageInfo pi = mContext.getPackageManager().getPackageInfo(
+					mContext.getPackageName(), 0);
+			return pi.versionName;
+		} catch (NameNotFoundException e) {
+			// TODO Auto-generated catch block
+			System.out.print("错误，无法获取代码版本名称");
+			e.printStackTrace();
+			return "error version name";
+		}
+	}
+
+	/**
+	 * 获得APP渠道号
+	 */
+	public static String getChannel(Context mContext) {
+		ApplicationInfo info;
+		try {
+			info = mContext.getPackageManager().getApplicationInfo(
+					mContext.getPackageName(), PackageManager.GET_META_DATA);
+			String msg = info.metaData.getString("APPCHANNLE");
+			System.out.println("APPCHANNLE:" + msg);
+			return msg;
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return "error channel";
+	}
+	
+	/**
+	 * 获得APP插屏KEY
+	 */
+	public static String getInterstitialKey(Context mContext) {
+		ApplicationInfo info;
+		try {
+			info = mContext.getPackageManager().getApplicationInfo(
+					mContext.getPackageName(), PackageManager.GET_META_DATA);
+			String msg = info.metaData.getString("APPINTERSTITIAL");
+			System.out.println("APPINTERSTITIAL:" + msg);
+			return msg;
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return "error key";
+	}
+	
+	/**
+	 * 获得APP横幅KEY
+	 */
+	public static String getBannerKey(Context mContext) {
+		ApplicationInfo info;
+		try {
+			info = mContext.getPackageManager().getApplicationInfo(
+					mContext.getPackageName(), PackageManager.GET_META_DATA);
+			String msg = info.metaData.getString("APPBANNER");
+			System.out.println("APPBANNER:" + msg);
+			return msg;
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return "error key";
+	}
+	
+	/**
+	 * 渠道是否拒绝外链
+	 */
+	public static Boolean isRefusedToURL(Context mContext)
+	{
+		String pChannel = Utils.getChannel(mContext);
+		return pChannel.equals("4399.com") || pChannel.equals("uc.com") || pChannel.equals("meitu.com");
+	}
+
+}

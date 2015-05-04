@@ -1,0 +1,196 @@
+package com.ipeaksoft.agent;
+
+import java.util.Locale;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
+import android.os.Environment;
+import android.os.Handler;
+import android.os.Looper;
+import android.util.Log;
+
+import com.ipeaksoft.agent.taskhandler.AdTaskHandler;
+import com.ipeaksoft.agent.taskhandler.CommonTaskHandler;
+import com.ipeaksoft.agent.taskhandler.PayTaskHandler;
+import com.ipeaksoft.agent.util.Utils;
+import com.ipeaksoft.libumeng.UmengAgent;
+//import com.ipeaksoft.libumeng.UmengAgent;
+//import com.ipeaksoft.libumeng.UmengAgent;
+import com.ipeaksoft.vector.ActivityLifeCycle;
+import com.ipeaksoft.vector.config.AppConfig;
+
+/**
+ * @author jinjia.peng
+ * 
+ *         娓告��浠ｇ��
+ * 
+ */
+public class GameAgent implements ActivityLifeCycle {
+
+	private static final Handler mHandler = new Handler(Looper.getMainLooper());
+	private static Context mContext;
+	private static GameAgent mGameAgent;
+
+	/**
+	 * ���濮���� Bridge
+	 * 
+	 * @param context
+	 * @return
+	 */
+	public static GameAgent init(Context context, Activity activity) {
+		if (mGameAgent == null) {
+			mContext = context;
+			mGameAgent = new GameAgent(context, activity);
+		}
+		return mGameAgent;
+	}
+
+	/**
+	 * ��峰��骞冲�板��瀹�渚�
+	 * 
+	 * @return
+	 */
+	public static GameAgent getInstance() {
+		return mGameAgent;
+	}
+
+	/**
+	 * @param context
+	 *            涓�涓����
+	 */
+	private GameAgent(Context context, Activity activity) {
+		CommonTaskHandler.init(context, activity);
+      	GameJNI.setChannel(Utils.getChannel(mContext),Utils.getVersionCode(mContext));
+//		AdTaskHandler.init(context);
+		PayTaskHandler.init(context);
+		UmengAgent.init(context);
+		System.out.println("appkey ="+Utils.getUmengKey(mContext)+"渠道号"+Utils.getUmengChannel(mContext));
+		GameJNI.setUmengChannel(Utils.getUmengKey(mContext),Utils.getUmengChannel(mContext));
+	}
+
+	@Override
+	public void resume() {
+		PayTaskHandler.getInstance().resume();
+	}
+
+	@Override
+	public void activityResult(int requestCode, int resultCode, Intent data) {
+//		UmengAgent.getInstance()
+//				.onActivityResult(requestCode, resultCode, data);
+	}
+
+	@Override
+	public void pause() {
+		PayTaskHandler.getInstance().pause();
+	}
+
+	/**
+	 * 璧�婧����姣�
+	 */
+	public void destroy() {
+		CommonTaskHandler.getInstance().destroy();
+		//AdTaskHandler.getInstance().destroy();
+		PayTaskHandler.getInstance().destroy();
+	}
+
+	/**
+	 * ��ц�����瀹�浠诲��
+	 * 
+	 * @param jsonData
+	 */
+	public static void execTask(final String jsonData) {
+		Log.i(AppConfig.TAG, "-------- execTask --------");
+		Log.i(AppConfig.TAG, "json data: " + jsonData);
+
+		mHandler.postDelayed(new Runnable() {
+
+			@Override
+			public void run() {
+				try {
+					Log.i(AppConfig.TAG, "---------run ----------");
+					JSONObject jsonObject = new JSONObject(jsonData);
+					String group = jsonObject.getString("group");
+					String func = jsonObject.getString("func");
+					JSONObject param = jsonObject.getJSONObject("param");
+					Log.i(AppConfig.TAG, group);
+					if ("common".equals(group)) {						
+						CommonTaskHandler.getInstance().execCommonTask(func,
+								param);
+					} else if ("ad".equals(group)) {
+						AdTaskHandler.getInstance().execAdTask(func, param);
+					} else if ("pay".equals(group)) {
+						PayTaskHandler.getInstance().execPayTask(func, param);
+					}
+
+				} catch (JSONException e) {
+					e.printStackTrace();
+					System.out.println("COMMON ERROR");
+				}
+			}
+		}, 50);
+	}
+
+	/**
+	 * ��ц�����杩���� Bollean 绫诲����肩��浠诲��
+	 * 
+	 * @param jsonData
+	 * @return
+	 */
+	public static boolean execBooleanTask(final String jsonData) {
+		Log.i(AppConfig.TAG, "-------- execBooleanTask --------");
+		Log.i(AppConfig.TAG, "json data: " + jsonData);
+
+		try {
+			JSONObject jsonObject = new JSONObject(jsonData);
+			String func = jsonObject.getString("func");
+			// JSONObject param = jsonObject.getJSONObject("param");
+
+			if ("isNetworkAvailable".equals(func)) { // 缃�缁�������������
+				return Utils.isNetworkAvailable(mContext);
+			} else if ("isCN".equals(func)) { // 绯荤��璇�瑷����澧����������涓����
+				final String language = Locale.getDefault().getLanguage();
+				if ("zh".equals(language)) {
+					System.out.println("涓�������澧�");
+				} else {
+					System.out.println("���涓�������澧�");
+				}
+				return "zh".equals(language);
+			}
+
+		} catch (JSONException e) {
+			e.printStackTrace();
+		}
+		return false;
+	}
+
+	/**
+	 * ��ц�����杩���� String 绫诲����肩��浠诲��
+	 * 
+	 * @param jsonData
+	 * @return
+	 */
+	public static String execStringTask(final String jsonData) {
+		Log.i(AppConfig.TAG, "-------- execStringTask --------");
+		Log.i(AppConfig.TAG, "json data: " + jsonData);
+
+		try {
+			JSONObject jsonObject = new JSONObject(jsonData);
+			String func = jsonObject.getString("func");
+			// JSONObject param = jsonObject.getJSONObject("param");
+
+			if ("getDeviceId".equals(func)) {
+				return Utils.getDeviceId(mContext);
+			} else if ("getSDCardRootPath".equals(func)) {
+				return Environment.getExternalStorageDirectory().getPath();
+			}
+		} catch (JSONException e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+
+}

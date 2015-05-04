@@ -1,0 +1,42 @@
+keystore password: ipeak1234
+
+#坑爹游戏
+pitdadgame : ipeak1234
+pitdadgame2 : ipeak1234
+pitdadgame3 : ipeak1234
+keng4 : ipeak1234
+keng5 : ipeak1234
+#跳跳减肥
+jumping : ipeak1234
+#保卫小和尚
+defendMonk : ipeak1234
+#史上最强的大脑
+bbgame : ipeak1234
+#游戏攻略
+raidersgame : ipeak1234
+#推方块
+handleKiller : ipeak1234
+#小苹果
+xiaopingguo : ipeak1234
+#手指终结者
+cleargame : ipeak1234
+#有种你别死
+keng_beng : ipeak1234
+#破游戏
+pogame : ipeak1234
+#我是光棍
+guanggun : ipeak1234
+#坑爹么么答
+kdmomoda : ipeak1234
+#蛋蛋的忧伤
+kengbeng2 : ipeak1234
+#再来一发
+ZaiLaiYiFa : ipeak1234
+#星星消灭者
+starKiller  : ipeak1234
+#逗比小黄鸭
+xiaohuangya  : ipeak1234
+#我是捕鱼达人
+fishmaster : ipeak1234
+#战机总动员
+fighterAll : ipeak1234

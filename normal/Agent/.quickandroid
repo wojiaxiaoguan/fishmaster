@@ -1,0 +1,8 @@
+<quick>
+<replaceData target='PayTaskHandler_config.txt' to='src/com/ipeaksoft/agent/taskhandler/PayTaskHandler.java' replace='@P' value='${payif}'/>
+<replaceData target="AdTaskHandler_config.txt" to='src/com/ipeaksoft/agent/taskhandler/AdTaskHandler.java' replace='@AD' value='${adlist}'/>
+<setXMLData target='AndroidManifest.xml' to='meta-data'  index='0' namespace='android' attribute='value' value='${channel}'/>
+<setXMLData target='AndroidManifest.xml' to='meta-data'  index='1' namespace='android' attribute='value' value='${plaqueKey}'/>
+<setXMLData target='AndroidManifest.xml' to='meta-data'  index='2' namespace='android' attribute='value' value='${bannerKey}'/>
+<clear target='${root}/proj.android/assets' ignore='res,script,src,main.js,project.json'/>
+</quick>

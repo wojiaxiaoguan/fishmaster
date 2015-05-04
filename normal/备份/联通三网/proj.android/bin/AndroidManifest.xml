@@ -1,0 +1,56 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.ipeaksoft.fishmaster">
+
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="19"/>
+    <uses-feature android:glEsVersion="0x00020000"/>
+
+    <application android:icon="@drawable/icon" android:label="@string/app_name" android:name="com.ipeaksoft.agent.activity.GameApplication">
+		<activity android:configChanges="orientation" android:label="@string/app_name" android:name="com.ipeaksoft.fishmaster.SplashActivity" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+             <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:configChanges="orientation|screenSize|keyboard|keyboardHidden" android:label="@string/app_name" android:name="com.ipeaksoft.fishmaster.fishmaster" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            
+        </activity>
+        <activity android:name="com.ipeaksoft.agent.activity.WebViewActivity" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+
+        <meta-data android:name="APPCHANNLE" android:value="jule.com"/>
+        <meta-data android:name="APPINTERSTITIAL" android:value="ADList"/>
+        <meta-data android:name="APPBANNER" android:value="ADList"/>
+        <activity android:configChanges="keyboardHidden|screenSize|navigation|orientation" android:label="@string/app_name" android:name="com.unicom.dcLoader.welcomeview" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <meta-data android:name="UNICOM_DIST_ACTIVITY" android:value="com.ipeaksoft.fishmaster.fishmaster"/>
+        </activity>
+        <activity android:configChanges="screenSize|orientation" android:name="com.example.test.TestAct"/>
+
+        <activity android:configChanges="orientation|keyboardHidden|navigation" android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" android:screenOrientation="behind"/>
+        <activity android:configChanges="orientation|keyboardHidden|navigation" android:exported="false" android:name="com.alipay.sdk.auth.AuthActivity" android:screenOrientation="behind"/>
+        <activity android:configChanges="orientation|screenSize|keyboard|keyboardHidden" android:label="@string/app_name" android:name="com.ipeaksoft.agent.activity.GameApplication" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+
+        <service android:name="com.unicom.wostore.unipay.paysecurity.SecurityServiceFramework">
+            <intent-filter>
+                <action android:name="com.ipeaksoft.fishmaster.unicom.wostore.unipay.securityserviceframework"/>
+            </intent-filter>
+        </service>
+
+        <meta-data android:name="wostore_billing_otherpay" android:value="true"/>
+        <meta-data android:name="wostore_billing_chinaunicom" android:value="true"/>
+        <meta-data android:name="wostore_billing_chinamobile" android:value="true"/>
+        <meta-data android:name="wostore_billing_chinatele" android:value="true"/>
+    </application>
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true"/>
+                         
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+	
+</manifest>

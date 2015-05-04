@@ -1,0 +1,3 @@
+<quick>
+<replaceData target='AndroidManifest_config.xml' to='AndroidManifest.xml' replace='@P' value='${package}'/>
+</quick>

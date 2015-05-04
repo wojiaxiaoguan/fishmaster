@@ -1,0 +1,20 @@
+
+**** Build of configuration Default for project proj.android ****
+
+bash /Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android/build_native.sh 
+NDK_ROOT = /Users/andy/dev/android-ndk-r8e
+mkdir: /Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android/assets: File exists
+COCOS2DX_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android/../../..
+APP_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android/..
+APP_ANDROID_ROOT = /Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android
+mkdir: /Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android/assets/ctestore: File exists
+cp: /Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android/alipay_msp.apk: No such file or directory
+Using prebuilt externals
+make: Entering directory `/Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android'
+Install        : libcocos2dcpp.so => libs/armeabi-v7a/libcocos2dcpp.so
+make: Leaving directory `/Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android'
+mkdir: /Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android/libs: File exists
+mkdir: /Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android/libs/armeabi: File exists
+mkdir: /Users/andy/Documents/cocos2d-x-2.1.4/projects/fishmaster/proj.android/libs/armeabi-v7a: File exists
+
+**** Build Finished ****

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>isLocked</key>
+		<integer>1</integer>
+		<key>exclusive</key>
+		<string></string>
+		<key>image</key>
+		<string>1mystical.png</string>
+		<key>name</key>
+		<string></string>
+		<key>desc</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>isLocked</key>
+		<integer>1</integer>
+		<key>exclusive</key>
+		<string></string>
+		<key>image</key>
+		<string>2dream.png</string>
+		<key>name</key>
+		<string></string>
+		<key>desc</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>isLocked</key>
+		<integer>1</integer>
+		<key>exclusive</key>
+		<string></string>
+		<key>image</key>
+		<string>3profusion.png</string>
+		<key>name</key>
+		<string></string>
+		<key>desc</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>isLocked</key>
+		<integer>1</integer>
+		<key>exclusive</key>
+		<string></string>
+		<key>image</key>
+		<string>4historic.png</string>
+		<key>name</key>
+		<string></string>
+		<key>desc</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

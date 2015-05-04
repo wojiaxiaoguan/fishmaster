@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameSubStoreLayer::ccTouchBegan(cocos2d::CCTouch*, cocos2d::CCEvent*):GameStore_cpp.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_dia_add">
+            </PersistentString>
+            <PersistentString
+               value = "m_dim_dec">
+            </PersistentString>
+            <PersistentString
+               value = "((CCControlButton*)ly_diamond_detail_bg-&gt;getChildByTag(21))-&gt;isEnabled()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "IntroLayer::ccTouchBegan(cocos2d::CCTouch*, cocos2d::CCEvent*) [inlined]:introLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "cb_exit">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameData::GameData():GameData.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_HitPercentage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::light1EndCallBack(cocos2d::CCNode*, void*):GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "point[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::updateUIExp():GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "ttf_cannon_score">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Fish::~Fish():Fish.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_fishAction">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Bullet::initWithBulletType(CannonType, GameLayer*, cocos2d::CCSpriteBatchNode*, int, cocos2d::CCPoint, bool):Bullet.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "GameData::getSharedGameData()-&gt;getHitPercentage()">
+            </PersistentString>
+            <PersistentString
+               value = "hit_Percentage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::updateFish(cocos2d::CCTime):GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pspec-&gt;m_spec">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameData::changeHide(int) [inlined]:GameData.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_hideBulletCnt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::setTaskInfoPanle(int):GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "this">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::onNodeLoaded(cocos2d::CCNode*, cocos2d::extension::CCNodeLoader*):GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "cb_menu-&gt;getChildByTag(9)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::addFish():GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_pBatchNodeFish">
+            </PersistentString>
+            <PersistentString
+               value = "getBatchNodeFish()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::enterGameLayerTip(cocos2d::CCObject*):GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "this-&gt;getChildByTag(888)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::syncHideUI():GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_pCannon-&gt;isHideBullet">
+            </PersistentString>
+            <PersistentString
+               value = "gd-&gt;hideBulletCount()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameData::provideProduct(ProductType):GameData.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameSubStoreLayer::reFresh():GameStore_cpp.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "ly_diamond_detail_bg-&gt;getChildByTag(21)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::addCannonSize(cocos2d::CCObject*):GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_pCannon-&gt;getConnonType()">
+            </PersistentString>
+            <PersistentString
+               value = "m_pCannon -&gt;cannon_score ">
+            </PersistentString>
+            <PersistentString
+               value = "task_index">
+            </PersistentString>
+            <PersistentString
+               value = "m_pCannon -&gt;cannon_score == m_pCannon -&gt;cannon_score_max &amp;&amp; m_pCannon -&gt;cannon_score_max != 1200">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::setGameLayerSel(cocos2d::CCObject*):GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "bn_exit-&gt;isVisible()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameStoreLayer::ccTouchBegan(cocos2d::CCTouch*, cocos2d::CCEvent*):GameStore_cpp.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_bTouchedMenu">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Fish::createSpecFish(GameLayer*):Fish.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "SPEC_YWYQ">
+            </PersistentString>
+            <PersistentString
+               value = "FISH_HAITUN">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CenterRoll::create(int):Helper.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "n-&gt;getPosition()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::showXihaGift() [inlined]:GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "task_index">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Fish::willDead(float) [inlined]:Fish.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_attackBullet-&gt;hit_Percentage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CenterRoll::generateFrameAnimation() [inlined]:Helper.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "frame-&gt;getOriginalSize()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

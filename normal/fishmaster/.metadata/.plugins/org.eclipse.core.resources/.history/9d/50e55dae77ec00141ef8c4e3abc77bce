@@ -1,0 +1,196 @@
+package com.ipeaksoft.agent;
+
+import java.util.Locale;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
+import android.os.Environment;
+import android.os.Handler;
+import android.os.Looper;
+import android.util.Log;
+
+import com.ipeaksoft.agent.taskhandler.AdTaskHandler;
+import com.ipeaksoft.agent.taskhandler.CommonTaskHandler;
+import com.ipeaksoft.agent.taskhandler.PayTaskHandler;
+import com.ipeaksoft.agent.util.Utils;
+import com.ipeaksoft.libumeng.UmengAgent;
+//import com.ipeaksoft.libumeng.UmengAgent;
+//import com.ipeaksoft.libumeng.UmengAgent;
+import com.ipeaksoft.vector.ActivityLifeCycle;
+import com.ipeaksoft.vector.config.AppConfig;
+
+/**
+ * @author jinjia.peng
+ * 
+ *         游戏代理
+ * 
+ */
+public class GameAgent implements ActivityLifeCycle {
+
+	private static final Handler mHandler = new Handler(Looper.getMainLooper());
+	private static Context mContext;
+	private static GameAgent mGameAgent;
+
+	/**
+	 * 初始化 Bridge
+	 * 
+	 * @param context
+	 * @return
+	 */
+	public static GameAgent init(Context context, Activity activity) {
+		if (mGameAgent == null) {
+			mContext = context;
+			mGameAgent = new GameAgent(context, activity);
+		}
+		return mGameAgent;
+	}
+
+	/**
+	 * 获取平台层实例
+	 * 
+	 * @return
+	 */
+	public static GameAgent getInstance() {
+		return mGameAgent;
+	}
+
+	/**
+	 * @param context
+	 *            上下文
+	 */
+	private GameAgent(Context context, Activity activity) {
+		CommonTaskHandler.init(context, activity);
+      	GameJNI.setChannel(Utils.getChannel(mContext),Utils.getVersionCode(mContext));
+//		AdTaskHandler.init(context);
+		PayTaskHandler.init(context);
+		UmengAgent.init(context);
+		System.out.println("appkey ="+Utils.getUmengKey(mContext)+"渠道"+Utils.getUmengChannel(mContext));
+		GameJNI.setUmengChannel(Utils.getUmengChannel(mContext),Utils.getUmengKey(mContext));
+	}
+
+	@Override
+	public void resume() {
+		PayTaskHandler.getInstance().resume();
+	}
+
+	@Override
+	public void activityResult(int requestCode, int resultCode, Intent data) {
+//		UmengAgent.getInstance()
+//				.onActivityResult(requestCode, resultCode, data);
+	}
+
+	@Override
+	public void pause() {
+		PayTaskHandler.getInstance().pause();
+	}
+
+	/**
+	 * 资源销毁
+	 */
+	public void destroy() {
+		CommonTaskHandler.getInstance().destroy();
+		//AdTaskHandler.getInstance().destroy();
+		PayTaskHandler.getInstance().destroy();
+	}
+
+	/**
+	 * 执行指定任务
+	 * 
+	 * @param jsonData
+	 */
+	public static void execTask(final String jsonData) {
+		Log.i(AppConfig.TAG, "-------- execTask --------");
+		Log.i(AppConfig.TAG, "json data: " + jsonData);
+
+		mHandler.postDelayed(new Runnable() {
+
+			@Override
+			public void run() {
+				try {
+					Log.i(AppConfig.TAG, "---------run ----------");
+					JSONObject jsonObject = new JSONObject(jsonData);
+					String group = jsonObject.getString("group");
+					String func = jsonObject.getString("func");
+					JSONObject param = jsonObject.getJSONObject("param");
+					Log.i(AppConfig.TAG, group);
+					if ("common".equals(group)) {						
+						CommonTaskHandler.getInstance().execCommonTask(func,
+								param);
+					} else if ("ad".equals(group)) {
+						AdTaskHandler.getInstance().execAdTask(func, param);
+					} else if ("pay".equals(group)) {
+						PayTaskHandler.getInstance().execPayTask(func, param);
+					}
+
+				} catch (JSONException e) {
+					e.printStackTrace();
+					System.out.println("COMMON ERROR");
+				}
+			}
+		}, 50);
+	}
+
+	/**
+	 * 执行有返回 Bollean 类型值的任务
+	 * 
+	 * @param jsonData
+	 * @return
+	 */
+	public static boolean execBooleanTask(final String jsonData) {
+		Log.i(AppConfig.TAG, "-------- execBooleanTask --------");
+		Log.i(AppConfig.TAG, "json data: " + jsonData);
+
+		try {
+			JSONObject jsonObject = new JSONObject(jsonData);
+			String func = jsonObject.getString("func");
+			// JSONObject param = jsonObject.getJSONObject("param");
+
+			if ("isNetworkAvailable".equals(func)) { // 网络是否可用
+				return Utils.isNetworkAvailable(mContext);
+			} else if ("isCN".equals(func)) { // 系统语言环境是否是中国
+				final String language = Locale.getDefault().getLanguage();
+				if ("zh".equals(language)) {
+					System.out.println("中文环境");
+				} else {
+					System.out.println("非中文环境");
+				}
+				return "zh".equals(language);
+			}
+
+		} catch (JSONException e) {
+			e.printStackTrace();
+		}
+		return false;
+	}
+
+	/**
+	 * 执行有返回 String 类型值的任务
+	 * 
+	 * @param jsonData
+	 * @return
+	 */
+	public static String execStringTask(final String jsonData) {
+		Log.i(AppConfig.TAG, "-------- execStringTask --------");
+		Log.i(AppConfig.TAG, "json data: " + jsonData);
+
+		try {
+			JSONObject jsonObject = new JSONObject(jsonData);
+			String func = jsonObject.getString("func");
+			// JSONObject param = jsonObject.getJSONObject("param");
+
+			if ("getDeviceId".equals(func)) {
+				return Utils.getDeviceId(mContext);
+			} else if ("getSDCardRootPath".equals(func)) {
+				return Environment.getExternalStorageDirectory().getPath();
+			}
+		} catch (JSONException e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+
+}
